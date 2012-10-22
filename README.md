@@ -15,11 +15,11 @@ Here's an example of the graph leading up to applying the HW configurations:
 
 Before applying change
 
-![image](pre-hw-graph.png)
+![image](https://github.com/adnichols/ganglia-hw-graph-problem/blob/master/pre-hw-graph.png?raw=true)
 
 After applying the change:
 
-![image](post-hw-graph.png)
+![image](https://github.com/adnichols/ganglia-hw-graph-problem/blob/master/post-hw-graph.png?raw=true)
 
 You can see that after the HW change is applied, data is still stored in the rrd however it is stored differently. 
 
